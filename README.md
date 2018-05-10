@@ -1,3 +1,12 @@
+tutorial: http://www.youtube.com/watch?v=oa9cnWTpqP8
+
+# Command used to generate the project:
+`ng new ng5 --style=scss --routing`
+
+# Angular concepts:
+- data binding: interpolation (passing variables from component to template)
+- event binding:
+
 # Ng5
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
