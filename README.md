@@ -1,6 +1,9 @@
 tutorial: http://www.youtube.com/watch?v=oa9cnWTpqP8
 25:43
 
+# How to install ng command
+sudo npm install -g @angular/cli
+
 # Command used to generate the project:
 `ng new ng5 --style=scss --routing`
 
