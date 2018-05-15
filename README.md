@@ -1,5 +1,5 @@
 tutorial: http://www.youtube.com/watch?v=oa9cnWTpqP8
-25:43
+35:00
 
 # How to install ng command
 sudo npm install -g @angular/cli
@@ -9,7 +9,8 @@ sudo npm install -g @angular/cli
 
 # Angular concepts:
 - data binding: interpolation (passing variables from component to template)
-- event binding:
+- event binding: (click)
+- animation: @angular/animations
 
 # Ng5
 
